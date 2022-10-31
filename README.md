@@ -4,6 +4,8 @@
 # vamplyr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/juliasilge/vamplyr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/juliasilge/vamplyr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of vamplyr is to give you very spooky Dracula vibes.
