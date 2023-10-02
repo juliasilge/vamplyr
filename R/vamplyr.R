@@ -19,5 +19,5 @@ vamplyr_bela_lugosi <- function() {
 #' vamplyr_gary_oldman()
 #'
 vamplyr_gary_oldman <- function() {
-  print(" Listen to them: the children of the night. What sweet music they make.")
+  print("Listen to them: the children of the night. What sweet music they make.")
 }
